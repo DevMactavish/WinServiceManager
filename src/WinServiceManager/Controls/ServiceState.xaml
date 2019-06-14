@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="WinServiceManager.Controls.ServiceState"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WinServiceManager.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="400">
+    <Grid>
+        <Button Name="startService" Content="Start" HorizontalAlignment="Left" Margin="60,71,0,0" VerticalAlignment="Top" Width="75" Click="StartService_Click"/>
+        <Button Name="stopService" Content="Stop" HorizontalAlignment="Left" Margin="150,71,0,0" VerticalAlignment="Top" Width="75" Click="StopService_Click"/>
+        <Button Name="restartService" Content="Restart" HorizontalAlignment="Left" Margin="240,71,0,0" VerticalAlignment="Top" Width="75" Click="RestartService_Click"/>
+        <TextBlock Name="tbStatus"  HorizontalAlignment="Left" Margin="195,40,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Ellipse Name="elipseState" Fill="Green" Height="20" Margin="170,40,210,90" Width="20"/>
+
+    </Grid>
+</UserControl>

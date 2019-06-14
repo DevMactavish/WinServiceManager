@@ -1,0 +1,6 @@
+C:\Users\mert.talayoglu\source\repos\WinServiceManager\src\WinServiceManager.Entities\bin\Debug\WinServiceManager.Entities.dll
+C:\Users\mert.talayoglu\source\repos\WinServiceManager\src\WinServiceManager.Entities\bin\Debug\WinServiceManager.Entities.pdb
+C:\Users\mert.talayoglu\source\repos\WinServiceManager\src\WinServiceManager.Entities\obj\Debug\WinServiceManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mert.talayoglu\source\repos\WinServiceManager\src\WinServiceManager.Entities\obj\Debug\WinServiceManager.Entities.dll
+C:\Users\mert.talayoglu\source\repos\WinServiceManager\src\WinServiceManager.Entities\obj\Debug\WinServiceManager.Entities.pdb
+C:\Users\mert.talayoglu\source\repos\WinServiceManager\src\WinServiceManager.Entities\obj\Debug\WinServiceManager.Entities.csprojAssemblyReference.cache
