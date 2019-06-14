@@ -6,7 +6,7 @@ Usage
 
 1)Choose a service
 
-2)Start Stop and Restart
+2)Use Start Stop and Restart buttons
 
 Results
 -------
